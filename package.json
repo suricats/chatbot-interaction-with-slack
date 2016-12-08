@@ -1,0 +1,20 @@
+{
+  "name": "chatbotdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node lib/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LoicSikidi",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "lodash": "^4.17.2",
+    "recastai": "^2.3.0",
+    "restify": "^4.3.0",
+    "slackbots": "^0.5.3",
+    "superagent": "^2.3.0"
+  }
+}
