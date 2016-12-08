@@ -32,7 +32,7 @@ this terminal is now used by ngrok and you can see your full Url that is require
 * Clone this Repository
 
 ```
-git clone https://github.com/hcherchi/PokeBot.git
+git clone https://github.com/suricats/chatbot-interaction-with-slack
 ```
 
 * Fill the config.js with your data
@@ -57,7 +57,7 @@ const config = {
 npm install
 ```
 
-* run Pokebot
+* run chatbot
 
 ```
 npm run start
